@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact - LIMRA TRAVELS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Arial; margin: 0; background: #f4f4f4; }
+        header, footer { background: darkblue; color: white; text-align: center; padding: 15px; }
+        nav { background: #222; text-align: center; padding: 10px; }
+        nav a { color: white; margin: 15px; text-decoration: none; font-weight: bold; }
+        .content { padding: 40px; text-align: center; }
+        .whatsapp {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #25D366;
+            color: white;
+            padding: 15px;
+            border-radius: 50%;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h2>Contact Us</h2>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<div class="content">
+    <h3>LIMRA TRAVELS</h3>
+    <p>📞 Phone: 9871850234</p>
+    <p>📍 Visit Our Shop for All Online Services</p>
+    <p>⏰ Open: 9 AM - 8 PM</p>
+</div>
+
+<footer>
+    © 2026 LIMRA TRAVELS
+</footer>
+
+<a class="whatsapp" href="https://wa.me/919871850234" target="_blank">W</a>
+
+</body>
+</html>
